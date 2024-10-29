@@ -8,5 +8,3 @@ Koalas are endemic to Australia, but their numbers have been declining. We hope 
 1.2 Summary of Results
 The primary insights from this study are that by successfully understanding these prediction models, we will be able to maintain Koloas in the future, particularly in Queensland suburbs, thereby helping to safeguard Australia's fauna.
 The research has essentially accomplished its purpose, acquiring several insights via the use of many types of models and categorisation approaches. We were able to determine the primary causes of mortality in Koalas, which were strongly connected to the various variables of injury and disease. This research also helps to provide light on how these figures change between locations and years. In conclusion, we discussed several crucial techniques for preventing Koala population declines.
-![Uploading image.png…]()
-
